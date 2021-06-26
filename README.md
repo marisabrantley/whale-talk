@@ -9,4 +9,4 @@ Ever wanted to talk like a whale? In Codecademy's Whale Talk project, we used Ja
 ## Class
 *Codecademy/Pro, Front-End Engineer Path*
 
-JavaScript Syntax: Loops - how to use for and while loops to execute blocks of code multiple times.
+JavaScript Syntax, Part II: Loops - how to use for and while loops to execute blocks of code multiple times.
